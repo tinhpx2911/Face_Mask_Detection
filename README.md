@@ -1,5 +1,7 @@
 # Face_Mask_Detection
+
 •	MTCNN Detector to detect the faces
+
 •	EfficientNet to classify mask or no mask
 
 The dataset is compiled from the following sources:
